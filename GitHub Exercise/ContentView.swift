@@ -19,7 +19,7 @@ struct ContentView: View {
             Rectangle()
         }
         .padding()
-        .foregroundStyle(.yellow)
+        .foregroundStyle(.green)
     }
 }
 
